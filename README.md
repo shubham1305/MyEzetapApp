@@ -6,8 +6,6 @@ MyEzetapApp consists of 2 pieces of UI right now:
 1. Home page with list of custom views fetched from remote
 2. User entered response page
 
-To dowload the latest app, go to the [releases](https://github.com/shubham1305/MyEzetapApp/releases) page.
-
 This app is under development. :construction_worker: :hammer_and_wrench:
 
 
