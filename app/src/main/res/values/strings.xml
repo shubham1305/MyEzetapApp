@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyEzetapApp</string>
+    <string name="label_entered_data">Entered Data</string>
+    <string name="error_empty_fields">Fields cannot be empty</string>
+</resources>
